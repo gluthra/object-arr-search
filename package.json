@@ -1,0 +1,23 @@
+{
+  "name": "object-arr-search",
+  "version": "1.0.0",
+  "description": "Search an object in an array of objects with given key and value",
+  "license": "MIT",
+  "author": {
+    "name": "Gaurav Luthra",
+    "email": "luthra.zenith@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": "https://github.com/gluthra/object-arr-search",
+  "keywords": [
+    "objects",
+    "array",
+    "contains",
+    "search",
+    "find",
+    "indexOf",
+    "containsObj"
+  ]
+}
